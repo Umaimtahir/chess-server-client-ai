@@ -46,7 +46,7 @@ chess-server-client-ai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chess-server-client-ai.git
+git clone [https://github.com/yourusername/chess-server-client-ai.git](https://github.com/Umaimtahir/chess-server-client-ai)
 cd chess-server-client-ai
 
 2. Start the Server
